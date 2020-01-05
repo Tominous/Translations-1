@@ -105,7 +105,7 @@ replaymod.gui.videothumbnail=Video Thumbnail
 replaymod.gui.videovisibility.private=Private
 replaymod.gui.videovisibility.unlisted=Unlisted
 replaymod.gui.videovisibility.public=Public
-replaymod.gui.ytuploadprogress.auth=[1/4] Authorization
+replaymod.gui.ytuploadprogress.auth=[1/4] Authorisation
 replaymod.gui.ytuploadprogress.prepare_video=[2/4] Preparing video: %%d%%%%
 replaymod.gui.ytuploadprogress.upload=[3/4] Uploading: %%d%%%%
 replaymod.gui.ytuploadprogress.cleanup=[4/4] Cleanup
@@ -208,8 +208,8 @@ replaymod.gui.center.search.version=Filter by Version
 
 replaymod.gui.center.downloadrequired=Download the Replay to rate or favorite it
 
-replaymod.gui.center.favorite=Favorite
-replaymod.gui.center.unfavorite=Unfavorite
+replaymod.gui.center.favorite=Favourite
+replaymod.gui.center.unfavorite=Unfavourite
 
 replaymod.gui.center.author=by %1$s%2$s
 
@@ -249,7 +249,7 @@ replaymod.gui.editor.trim.marker=Select Event Marker
 replaymod.gui.editor.progress.title=Editing Replay File...
 replaymod.gui.editor.progress.pleasewait=Please wait while the Replay is being edited.
 
-replaymod.gui.editor.progress.status.initializing=Initializing
+replaymod.gui.editor.progress.status.initializing=Initialising
 replaymod.gui.editor.progress.status.writing.raw=Rewriting Replay...
 replaymod.gui.editor.progress.status.writing.final=Writing File to disk...
 replaymod.gui.editor.progress.status.finished=Finished Editing!
@@ -389,9 +389,9 @@ replaymod.gui.rendersettings.sphericalmetadata.error=Spherical Metadata can only
 
 replaymod.gui.rendersettings.command=Command
 replaymod.gui.rendersettings.arguments=Command Line Arguments
-replaymod.gui.rendersettings.ffmpeg.description=If you are an advanced user, you can customize the command line parameters used to export the video. For more information, check http://replaymod.com/docs
+replaymod.gui.rendersettings.ffmpeg.description=If you are an advanced user, you can customise the command line parameters used to export the video. For more information, check http://replaymod.com/docs
 
-replaymod.gui.rendersettings.stabilizecamera=Stabilize Camera
+replaymod.gui.rendersettings.stabilizecamera=Stabilise Camera
 
 replaymod.gui.rendersettings.video=Video Settings
 replaymod.gui.rendersettings.advanced=Advanced Settings
